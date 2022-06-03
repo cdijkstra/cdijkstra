@@ -5,7 +5,6 @@
 - 🎯 My goal is to solve problems only once by generalizing solutions
 - 👯 I’m looking to collaborate on innovative projects that connect people of make the world a better place.
 - 📫 How to reach me: cdijkstra@xpirit.com
-- ⚡ Fun fact: Not 
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
