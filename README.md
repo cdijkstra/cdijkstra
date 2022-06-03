@@ -10,15 +10,6 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 - 👯 I’m looking to collaborate on innovative projects that connect people of make the world a better place.
 - 📫 How to reach me: cdijkstra@xpirit.com
 
-## ✉️ Find me on:
-
-<p align="center">
- <a href="https://www.linkedin.com/in/casper-dijkstra-30661897/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cdijkstra@xpirit.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
 ## 📈 Github stats:
 ![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
 
@@ -53,3 +44,12 @@ My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badg
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/4e3fd632-edd1-418a-9665-c5311307de99 "Microsoft Certified: Azure Developer Associate")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/bfee17d3-aca3-4787-9f1c-1066db35543f "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 <!--END_SECTION:badges-->
+
+## ✉️ Find me on:
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/casper-dijkstra-30661897/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cdijkstra@xpirit.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
