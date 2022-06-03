@@ -12,8 +12,19 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 - 👯 I’m looking to collaborate on innovative projects that connect people of make the world a better place.
 - 📫 How to reach me: cdijkstra@xpirit.com
 
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.pulumi.com/logos/brand/twitter-card.png" alt="Pulumi" height="40" style="vertical-align:top; margin:4px">
+<img src="https://setscholars.net/wp-content/uploads/2020/09/C-Code-1024x508.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
 ## Badges:
-The badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
+My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
 <!--START_SECTION:badges-->
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/bf17e525-8c2a-4833-8651-1adad967bada "CKAD: Certified Kubernetes Application Developer")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/69264996-15f4-452b-8a84-bb6408f5e54e "Microsoft Certified: Azure Solutions Architect Expert")
