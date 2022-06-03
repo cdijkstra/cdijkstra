@@ -1,5 +1,7 @@
 ### Hi there! 👋 
 
+![](https://komarev.com/ghpvc/?username=cdijkstra&style=flat-square)
+
 - 🌱 I’m currently learning how to use new technologies (Blazor, k8s, Azure Lighthouse) to make life easier.  
 - 🔭 I’m currently working on complex calculation modules which have to be highly available.
 - 🎯 My goal is to solve problems only once by generalizing solutions
