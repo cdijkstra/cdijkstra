@@ -1,4 +1,4 @@
-### Hi there! 👋 
+### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
 
 I am Casper Dijkstra, a software developer and Azure architect working at Xpirit in the Netherlands.
 
@@ -18,7 +18,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.pulumi.com/logos/brand/twitter-card.png" alt="Pulumi" height="40" style="vertical-align:top; margin:4px">
-<img src="https://setscholars.net/wp-content/uploads/2020/09/C-Code-1024x508.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
