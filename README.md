@@ -23,6 +23,8 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 ![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
 
 ## 🧰 Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdijkstra&theme=tokyonight)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="40" style="vertical-align:top; margin:4px"> 
@@ -38,8 +40,6 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdijkstra&theme=tokyonight)
 
 ## Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
