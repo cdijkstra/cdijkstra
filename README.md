@@ -4,6 +4,17 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 
 ![](https://komarev.com/ghpvc/?username=cdijkstra&style=plastic,color=yellowgreen)
 
+## ✉️ Find me on:
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/casper-dijkstra-30661897/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cdijkstra@xpirit.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
+
+
 ![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning how to use new technologies (Blazor, k8s, Azure Lighthouse) to make life easier.  
@@ -31,7 +42,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdijkstra&theme=tokyonight)
 
-## Badges:
+## Badges <h3> <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
 My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
 <!--START_SECTION:badges-->
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/bf17e525-8c2a-4833-8651-1adad967bada "CKAD: Certified Kubernetes Application Developer")
