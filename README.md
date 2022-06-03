@@ -41,7 +41,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdijkstra&theme=tokyonight)
 
-## Badges <h3> <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h3>
+## Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
 <!--START_SECTION:badges-->
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/bf17e525-8c2a-4833-8651-1adad967bada "CKAD: Certified Kubernetes Application Developer")
