@@ -1,6 +1,7 @@
 ### Hi there! 👋 
 
-![](https://komarev.com/ghpvc/?username=cdijkstra&style=flat-square)
+I am Casper Dijkstra, a software developer and Azure architect working at Xpirit in the Netherlands.
+![](https://komarev.com/ghpvc/?username=cdijkstra&style=plastic,color=yellowgreen)
 
 - 🌱 I’m currently learning how to use new technologies (Blazor, k8s, Azure Lighthouse) to make life easier.  
 - 🔭 I’m currently working on complex calculation modules which have to be highly available.
