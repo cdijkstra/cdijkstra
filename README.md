@@ -35,6 +35,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 ## Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
 <!--START_SECTION:badges-->
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c6f0639f-0b74-44fc-b57b-14f344e677bf "CKA: Certified Kubernetes Administrator")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/bf17e525-8c2a-4833-8651-1adad967bada "CKAD: Certified Kubernetes Application Developer")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/7c5fb7e3-3d9d-4325-9f7b-50f6c3afc834 "Microsoft Certified: Azure Solutions Architect Expert")
 [![AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://images.credly.com/size/110x110/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png)](http://www.credly.com/badges/775079b5-d8c2-44e2-bf8f-5e5235ced7a5 "AZ-305: Designing Microsoft Azure Infrastructure Solutions")
