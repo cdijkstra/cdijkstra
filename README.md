@@ -35,6 +35,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Xpirit
 ## Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
 <!--START_SECTION:badges-->
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/67fd0a75-7a22-4ea4-b0fa-c4d482bd8db1 "Microsoft Certified: Azure AI Fundamentals")
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](http://www.credly.com/badges/ad03332b-0b5d-47f8-9262-1cf8428e723d "LFCS: Linux Foundation Certified Systems Administrator")
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b0c35fda-2eea-469f-b143-48dd5652d620 "HashiCorp Certified: Terraform Associate (002)")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c6f0639f-0b74-44fc-b57b-14f344e677bf "CKA: Certified Kubernetes Administrator")
