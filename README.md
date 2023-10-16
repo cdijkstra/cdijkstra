@@ -4,10 +4,10 @@ I am Casper Dijkstra, a software developer and Azure architect working at Freshm
 
 ![](https://komarev.com/ghpvc/?username=cdijkstra&style=plastic,color=yellowgreen)
 
-- 🌱 Always exploring new technologies (currently Blazor and Azure Machine Learniing).  
+- 👨🏽‍💻 Always exploring new technologies (currently Blazor and Azure Machine Learniing).  
 - 🎯 My goal is to solve problems just once by creating generalized solutions
 - 🔭 Passionate about Complex computations with edge cases
-- 👯 I’m looking to collaborate on innovative projects that connect people of make the world a better and more convenient place.
+- 🌱 I’m looking to collaborate on innovative projects that connect people of make the world a better and more convenient place.
 - 📫 How to reach out to me: casper.dijkstra@fresh-minds.nl
 
 ## 📈 Github stats:
