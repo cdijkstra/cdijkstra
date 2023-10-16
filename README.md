@@ -8,7 +8,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Freshm
 - 🔭 I’m currently working on complex calculation modules which have to be highly available.
 - 🎯 My goal is to solve problems only once by generalizing solutions
 - 👯 I’m looking to collaborate on innovative projects that connect people of make the world a better place.
-- 📫 How to reach me: cdijkstra@xpirit.com
+- 📫 How to reach me: casper.dijkstra@fresh-minds.nl
 
 ## 📈 Github stats:
 ![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
