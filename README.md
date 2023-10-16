@@ -52,8 +52,8 @@ My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badg
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/casper-dijkstra-30661897/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cdijkstra@xpirit.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/casper-dijkstra-30661897/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; background-color: #0077B5; padding: 6px; border-radius: 50%;"></a>
+ <a href="mailto:casper.dijkstra@fresh-minds.nl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; background-color: #D14836; padding: 6px; border-radius: 50%;"></a>
 </p>
 
 <br />
