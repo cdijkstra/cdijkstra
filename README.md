@@ -1,6 +1,6 @@
 ### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
 
-I am Casper Dijkstra, a software developer and Azure architect working at Freshminds in the Netherlands.
+I am Casper Dijkstra, a software developer and Azure architect working at Cloud Republic in the Netherlands.
 
 ![](https://komarev.com/ghpvc/?username=cdijkstra&style=plastic,color=yellowgreen)
 
