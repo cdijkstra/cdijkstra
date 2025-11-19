@@ -22,7 +22,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Cloud 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 <img src="https://skorpil.cz/sites/default/files/2022-01/1200px-Bash_Logo_Colored.svg_.png" alt="Bash" height="40" style="vertical-align:top; margin:4px">
-<img src="https://skorpil.cz/sites/default/files/2022-01/1200px-Bash_Logo_Colored.svg_.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROSVsyTE3Rq2DeKnZ9DvrUCTjEv6k0NTDNvw&s" alt="Angular" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
