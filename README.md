@@ -27,7 +27,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at Cloud 
 <img src="https://hsto.org/getpro/habr/post_images/792/138/92e/79213892e85d57177c0ba9864dd75cc6.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/62383372/171868107-f31270ea-c2c0-4a97-abcb-561b75cee968.png" alt="AKS" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://www.pulumi.com/logos/brand/twitter-card.png" alt="Pulumi" height="40" style="vertical-align:top; margin:4px">
+<img src="[https://www.pulumi.com/logos/brand/twitter-summary.png" alt="Pulumi" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
