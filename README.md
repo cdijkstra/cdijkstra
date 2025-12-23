@@ -8,7 +8,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 - 🎯 My goal is to solve problems just once by creating generalized solutions
 - 🔭 Passionate about Complex computations with edge cases
 - 🌱 I’m looking to collaborate on innovative projects that connect people of make the world a better and more convenient place.
-- 📫 How to reach out to me: casper.dijkstra@fresh-minds.nl
+- 📫 How to reach out to me: c.dijkstra@cloudrepublic.nl
 
 ## 📈 Github stats:
 ![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
