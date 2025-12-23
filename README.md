@@ -12,10 +12,9 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 
 ## 📈 Github stats:
 [![Casper's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=cdijkstra)](https://github.com/cdijkstra/github-readme-stats-fast)
-![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
 
 ## 🧰 Languages and Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdijkstra&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cdijkstra&theme=tokyonight)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
