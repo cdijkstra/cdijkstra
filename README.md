@@ -11,6 +11,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 - 📫 How to reach out to me: c.dijkstra@cloudrepublic.nl
 
 ## 📈 Github stats:
+[![Casper's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=cdijkstra)](https://github.com/cdijkstra/github-readme-stats-fast)
 ![Casper's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdijkstra&show_icons=true&theme=radical)
 
 ## 🧰 Languages and Tools:
