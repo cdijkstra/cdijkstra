@@ -35,20 +35,92 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 
 ## Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
-<!--START_SECTION:badges-->
-[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9 "Microsoft Certified: Azure AI Fundamentals")
-[![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](http://www.credly.com/badges/ad03332b-0b5d-47f8-9262-1cf8428e723d "LFCS: Linux Foundation Certified Systems Administrator")
-[![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob)]([https://www.credly.com/badges/052cb668-331d-4f00-b4f6-d33cd2315fa5 "HashiCorp Certified: Terraform Associate (003)")
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/c6f0639f-0b74-44fc-b57b-14f344e677bf "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/09cd1ad2-13e9-478d-8bc2-3af57ec75ccc "CKAD: Certified Kubernetes Application Developer")
-[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/b3596277-0473-496d-b6a0-46d8c0ebbfba "Microsoft Certified: Azure Solutions Architect Expert")
-[![AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://images.credly.com/size/110x110/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png)](http://www.credly.com/badges/1122c3b4-6de5-4b05-8655-617128a397e5 "AZ-305: Designing Microsoft Azure Infrastructure Solutions")
-[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/805172b5-579b-46ee-b75f-a1a4a6b329a0 "Microsoft Certified: Azure Security Engineer Associate")
-[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/7aba0b87-6a15-4f50-87a9-fce91682c12e "Microsoft Certified: Azure Administrator Associate")
-[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/1019928e-ee89-4741-b4ce-03ca92972740 "Microsoft Certified: DevOps Engineer Expert")
-[![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/0ba6bd4d-7ae3-4b55-8087-c74eb49259d5 "Microsoft Certified: Azure Developer Associate")
-[![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/ff6e0251-07b3-49db-8f6a-f1f17dd266e8 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
-<!--END_SECTION:badges-->
+
+<p align="center">
+  <a href="https://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9">
+    <img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
+         alt="Microsoft Certified: Azure AI Fundamentals"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/ad03332b-0b5d-47f8-9262-1cf8428e723d">
+    <img src="https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png"
+         alt="LFCS: Linux Foundation Certified Systems Administrator"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/052cb668-331d-4f00-b4f6-d33cd2315fa5">
+    <img src="https://images.credly.com/size/110x110/images/0dc62494-dc94-469a-83af-e35309f27356/blob"
+         alt="HashiCorp Certified: Terraform Associate (003)"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/c6f0639f-0b74-44fc-b57b-14f344e677bf">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+         alt="CKA: Certified Kubernetes Administrator"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/09cd1ad2-13e9-478d-8bc2-3af57ec75ccc">
+    <img src="https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob"
+         alt="CKAD: Certified Kubernetes Application Developer"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/b3596277-0473-496d-b6a0-46d8c0ebbfba">
+    <img src="https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"
+         alt="Microsoft Certified: Azure Solutions Architect Expert"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/1122c3b4-6de5-4b05-8655-617128a397e5">
+    <img src="https://images.credly.com/size/110x110/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png"
+         alt="AZ-305: Designing Microsoft Azure Infrastructure Solutions"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/805172b5-579b-46ee-b75f-a1a4a6b329a0">
+    <img src="https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png"
+         alt="Microsoft Certified: Azure Security Engineer Associate"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/7aba0b87-6a15-4f50-87a9-fce91682c12e">
+    <img src="https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+         alt="Microsoft Certified: Azure Administrator Associate"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/1019928e-ee89-4741-b4ce-03ca92972740">
+    <img src="https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png"
+         alt="Microsoft Certified: DevOps Engineer Expert"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/0ba6bd4d-7ae3-4b55-8087-c74eb49259d5">
+    <img src="https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"
+         alt="Microsoft Certified: Azure Developer Associate"
+         width="90"
+         height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/ff6e0251-07b3-49db-8f6a-f1f17dd266e8">
+    <img src="https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
+         alt="AZ-400: Designing and Implementing Microsoft DevOps Solutions"
+         width="90"
+         height="90">
+  </a>
+</p>
 
 ## ✉️ Find me on:
 
