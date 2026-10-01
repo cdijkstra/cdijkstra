@@ -37,13 +37,6 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 My badges can be viewed [here](https://learn.microsoft.com/en-us/users/casperdijkstra-0464/transcript/v2n6nap36zq90xk?tab=credentials-tab) and [here](https://www.credly.com/users/casper-dijkstra/badges).
 
 <p align="center">
-  <a href="https://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9">
-    <img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
-         alt="Microsoft Certified: Azure AI Fundamentals"
-         width="90"
-         height="90">
-  </a>
-
  <a href="https://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9">
     <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png"
          alt="Microsoft Certified: Azure AI Engineer Associate"
@@ -132,6 +125,13 @@ My badges can be viewed [here](https://learn.microsoft.com/en-us/users/casperdij
          alt="Azure data fundamentals"
          width="90"
          height="90">
+  </a>
+
+  <a href="https://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9">
+  <img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
+       alt="Microsoft Certified: Azure AI Fundamentals"
+       width="90"
+       height="90">
   </a>
 </p>
 
