@@ -44,6 +44,13 @@ My badges can be viewed [here](https://learn.microsoft.com/en-us/users/casperdij
          height="90">
   </a>
 
+ <a href="https://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9">
+    <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png"
+         alt="Microsoft Certified: Azure AI Engineer Associate"
+         width="90"
+         height="90">
+  </a>
+
   <a href="https://www.credly.com/badges/ad03332b-0b5d-47f8-9262-1cf8428e723d">
     <img src="https://images.credly.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png"
          alt="LFCS: Linux Foundation Certified Systems Administrator"
@@ -117,6 +124,12 @@ My badges can be viewed [here](https://learn.microsoft.com/en-us/users/casperdij
   <a href="https://www.credly.com/badges/ff6e0251-07b3-49db-8f6a-f1f17dd266e8">
     <img src="https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png"
          alt="AZ-400: Designing and Implementing Microsoft DevOps Solutions"
+         width="90"
+         height="90">
+
+  <a href="https://www.credly.com/badges/ff6e0251-07b3-49db-8f6a-f1f17dd266e8">
+    <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
+         alt="Azure data fundamentals"
          width="90"
          height="90">
   </a>
