@@ -1,6 +1,6 @@
 ### Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">
 
-I am Casper Dijkstra, a software developer and Azure architect working at [Cloud Republic](https://cloudrepublic.nl/) in the Netherlands.
+I am Casper Dijkstra, a software developer and Azure architect working in the Netherlands.
 
 ![](https://komarev.com/ghpvc/?username=cdijkstra&style=plastic,color=yellowgreen)
 
@@ -8,7 +8,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 - 🎯 My goal is to solve problems just once by creating generalized solutions
 - 🔭 Passionate about Complex computations with edge cases
 - 🌱 I’m looking to collaborate on innovative projects that connect people of make the world a better and more convenient place.
-- 📫 How to reach out to me: c.dijkstra@cloudrepublic.nl
+- 📫 How to reach out to me: casperdijkstra92@gmail.com
 
 ## 📈 Github stats:
 [![Casper's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=cdijkstra)](https://github.com/cdijkstra/github-readme-stats-fast)
