@@ -34,7 +34,7 @@ I am Casper Dijkstra, a software developer and Azure architect working at [Cloud
 </p>
 
 ## Badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
-My badges can be viewed [here](https://www.credly.com/users/casper-dijkstra/badges).
+My badges can be viewed [here](https://learn.microsoft.com/en-us/users/casperdijkstra-0464/transcript/v2n6nap36zq90xk?tab=credentials-tab) and [here](https://www.credly.com/users/casper-dijkstra/badges).
 
 <p align="center">
   <a href="https://www.credly.com/badges/d208b21d-755d-4845-ae7e-09790c25a5a9">
